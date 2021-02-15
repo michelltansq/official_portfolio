@@ -832,35 +832,28 @@
         <div class="container">
           <div class="row mh-portfolio-modal-inner">
             <div class="col-sm-5">
-              <h2>ABC Education System</h2>
-              <p>
-                This is my final semester capstone project, completed by me and
-                my team mate, Jose Jimenez.
-              </p>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. In sunt
-                odit quibusdam natus atque rerum recusandae, aspernatur, iste a
-                accusamus veniam repellat voluptates quos perspiciatis
-                consequatur saepe exercitationem dolores ipsa. i
-              </p>
+              <h2>Teledoctor - Online Doctor Consultation</h2>
 
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto,
-                tempora?
+                Teledoctor is a UI prototype of a telemedicine app that connects patient
+                with doctors online anywhere and anytime at their convenience.
+                Teledoctor is an all in one app that includes various services such as 
+                booking appointments at your nearby clinic. Also, a pharmacy where you
+                can shop your medications and get it shipped to your house for free after 
+                consulting with your doctor. Having various features that cater to the
+                patients allows them to access what they need in just one app.
               </p>
+
               <div class="mh-about-tag">
                 <ul>
-                  <li><span>React</span></li>
-                  <li><span>Redux</span></li>
-                  <li><span>Jest</span></li>
-                  <li><span>Javascript</span></li>
-                  <li><span>Firebase</span></li>
-                  <li><span>SASS</span></li>
-                  <li><span>Webpack</span></li>
+                  <li><span>Adobe XD</span></li>
                 </ul>
               </div>
-              <a class="btn btn-fill" href=" " target="_blank">Live Demo</a>
-              <a class="btn btn-fill" href=" " target="_blank">Github</a>
+              <a
+                class="btn btn-fill"
+                href="https://xd.adobe.com/view/8d6843b4-c621-4258-bfb6-45a47e7c03c4-d83b/"
+                target="_blank"
+              >Live Prototype</a>
             </div>
             <div class="col-sm-7">
               <div class="mh-portfolio-modal-img">
@@ -869,16 +862,6 @@
                   alt
                   class="img-fluid"
                 />
-                <p>
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                  Tenetur id officia vero! Nesciunt, a nihil.
-                </p>
-                <img
-                  src="./assets/images/project/project 2.jpg"
-                  alt
-                  class="img-fluid"
-                />
-                <p>Lorem ipsum dolor sit amet.</p>
               </div>
             </div>
           </div>
