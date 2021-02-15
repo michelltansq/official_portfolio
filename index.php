@@ -793,13 +793,13 @@
               <h2>Priced - Compare Prices</h2>
 
               <p>
-                Priced is a UI Prototype of an aggregated price comparison app
-                concept to compare across various shopping platforms such as
-                Shopee, Lazada and qoo10 that are commonly used in Singapore as
-                there is not a lot of applications that compare popular local
-                shopping platforms since many of the applications I saw compare
-                prices from major shopping platforms such as Amazon and
-                Aliexpress.
+                Priced is a UI prototype of a price comparison app that compares
+                various shopping platforms that are popular in Singapore such as
+                Shopee, Lazada and Qoo10. Many of the available price comparison
+                apps found in the app store only compare international shopping
+                platforms such as eBay, Amazon and AliExpress. Thus, the concept
+                of such a price comparison app, Priced, was created that caters
+                for the locals in Singapore.
               </p>
 
               <div class="mh-about-tag">
