@@ -817,7 +817,7 @@
             <div class="col-sm-7">
               <div class="mh-portfolio-modal-img">
                 <img
-                  src="./assets/images/project/project2.png"
+                  src="./assets/images/project/project1.png"
                   alt
                   class="img-fluid"
                 />
@@ -858,7 +858,7 @@
             <div class="col-sm-7">
               <div class="mh-portfolio-modal-img">
                 <img
-                  src="./assets/images/project/project 2.jpg"
+                  src="./assets/images/project/project2.jpg"
                   alt
                   class="img-fluid"
                 />
