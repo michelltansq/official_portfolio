@@ -828,7 +828,7 @@
       </div>
 
       <!-- SECOND POPUP PROJECT -->
-      <!-- <div class="mh-portfolio-modal" id="mh-2">
+      <div class="mh-portfolio-modal" id="mh-2">
         <div class="container">
           <div class="row mh-portfolio-modal-inner">
             <div class="col-sm-5">
@@ -858,7 +858,7 @@
             <div class="col-sm-7">
               <div class="mh-portfolio-modal-img">
                 <img
-                  src="./assets/images/project/project2.jpg"
+                  src="./assets/images/project/Teledoctor.png"
                   alt
                   class="img-fluid"
                 />
@@ -866,7 +866,7 @@
             </div>
           </div>
         </div>
-      </div> -->
+      </div>
 
       <!-- FOUR PROJECT POPUP -->
       <!-- <div class="mh-portfolio-modal" id="mh-4">
