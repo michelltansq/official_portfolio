@@ -689,8 +689,8 @@
                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 react">
                   <figure>
                     <img
-                      src="./assets/images/project/Teledoctor.jpg"
-                      alt="img04"
+                      src="./assets/images/project/Teledoctor.png"
+                      alt="img02"
                     />
                     <figcaption class="fig-caption">
                       <h5 class="title">Teledoctor</h5>
