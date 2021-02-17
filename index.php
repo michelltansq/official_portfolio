@@ -685,25 +685,22 @@
                     </figcaption>
                   </figure>
                 </div>
-
-                <!-- <div class="grid-item col-md-4 col-sm-6 col-xs-12 react">
+                 
+                <div class="grid-item col-md-4 col-sm-6 col-xs-12 react">
                   <figure>
                     <img
-                      src="./assets/images/project/project1.jpg"
+                      src="./assets/images/project/Teledoctor.jpg"
                       alt="img04"
                     />
                     <figcaption class="fig-caption">
-                      <h5 class="title">Expensify</h5>
-                      <span class="sub-title">React</span>
-                      <a
-                        href="assets/images/portfolio/g2.png/index.html"
-                        data-fancybox
-                        data-src="#mh-2"
-                      ></a>
+                      <h5 class="title">Teledoctor</h5>
+                      <span class="sub-title">Adobe XD</span>
+                      <a data-fancybox data-src="#mh-2"></a>
                     </figcaption>
                   </figure>
                 </div>
-
+                
+                <!-- 
                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 web-design">
                   <figure>
                     <img
