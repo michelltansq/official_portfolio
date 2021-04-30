@@ -709,7 +709,7 @@
                     />
                     <figcaption class="fig-caption">
                       <h5 class="title">sgBus</h5>
-                      <span class="sub-title">React Native</span>
+                      <span class="sub-title">React Native</span><br>
                       <span class="sub-title">Figma</span>
                       <a data-fancybox data-src="#mh-3"></a>
                     </figcaption>
