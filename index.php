@@ -891,7 +891,7 @@
             <div class="col-sm-7">
               <div class="mh-portfolio-modal-img">
                 <img
-                  src="./assets/images/project/sgBus.jpg"
+                  src="./assets/images/project/sgBus.png"
                   alt
                   class="img-fluid"
                 />
