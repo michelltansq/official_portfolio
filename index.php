@@ -865,60 +865,44 @@
         </div>
       </div>
 
-      <!-- FOUR PROJECT POPUP -->
-      <!-- <div class="mh-portfolio-modal" id="mh-4">
+      <!-- THIRD PROJECT POPUP -->
+      <div class="mh-portfolio-modal" id="mh-3">
         <div class="container">
           <div class="row mh-portfolio-modal-inner">
             <div class="col-sm-5">
-              <h2>ABC Education System</h2>
+              <h2>sgBus - Bus Arrival</h2>
+              
               <p>
-                This is my final semester capstone project, completed by me and
-                my team mate, Jose Jimenez.
+                sgBus is an application coded in React Native that shows the bus arrival
+                time of whichever bus stops the user is located. sgBus comes with a
+                crowd check feature where the user will know if the incoming bus is
+                crowded or available with seats. Also, the application shows the incoming
+                type of bus which can come in the form of single decker, double decker or
+                articulated bus. This app will help the user to better plan their trip so
+                the user will not have to waste their time waiting under the bus stop.
               </p>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. In sunt
-                odit quibusdam natus atque rerum recusandae, aspernatur, iste a
-                accusamus veniam repellat voluptates quos perspiciatis
-                consequatur saepe exercitationem dolores ipsa. i
-              </p>
-
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto,
-                tempora?
-              </p>
+              
               <div class="mh-about-tag">
                 <ul>
-                  <li><span>HTML</span></li>
-                  <li><span>Javascript</span></li>
-                  <li><span>SASS</span></li>
-                  <li><span>Bootstrap</span></li>
+                  <li><span>Figma</span></li>
+                  <li><span>React Native</span></li>
                 </ul>
               </div>
-              <a class="btn btn-fill" href=" " target="_blank">Live Demo</a>
-              <a class="btn btn-fill" href=" " target="_blank">Github</a>
+              <a class="btn btn-fill" href="https://www.figma.com/proto/Q7bDShxqWVrDSJzyHA4BaD/sgBus?page-id=0%3A1&node-id=1%3A2&viewport=165%2C450%2C0.4667757451534271&scaling=scale-down" target="_blank">Live Prototype</a>
+              <a class="btn btn-fill" href="https://github.com/michelltansq/sgBusOffical" target="_blank">Github</a>
             </div>
             <div class="col-sm-7">
               <div class="mh-portfolio-modal-img">
                 <img
-                  src="./assets/images/project/teledoctor.jpg"
+                  src="./assets/images/project/sgBus.jpg"
                   alt
                   class="img-fluid"
                 />
-                <p>
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                  Tenetur id officia vero! Nesciunt, a nihil.
-                </p>
-                <img
-                  src="./assets/images/project/project 2.jpg"
-                  alt
-                  class="img-fluid"
-                />
-                <p>Lorem ipsum dolor sit amet.</p>
               </div>
             </div>
           </div>
         </div>
-      </div> -->
+      </div>
 
       <!-- FIVE PROJECT POPUP -->
       <!-- <div class="mh-portfolio-modal" id="mh-5">
