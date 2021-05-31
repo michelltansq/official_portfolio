@@ -1146,7 +1146,7 @@
         </div>
       </div>
       <p class="text-center py-2 bg-dark text-white">
-        Michell Tan &copy; Copyright 2020. All rights reserved.
+        Michell Tan &copy; Copyright 2021. All rights reserved.
       </p>
     </footer>
 
