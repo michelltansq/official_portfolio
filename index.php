@@ -2,7 +2,6 @@
 <html lang="en">
   <head>
     <title>Michell Tan</title>
-    <!-- Required meta tags -->
     <meta charset="utf-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
 
@@ -10,8 +9,6 @@
       name="viewport"
       content="width=device-width, initial-scale=1, shrink-to-fit=no"
     />
-
-    <!-- FAV AND ICONS   -->
     <link rel="shortcut icon" href="assets/images/favicon.ico" />
     <link rel="shortcut icon" href="assets/images/apple-icon.png" />
     <link
@@ -24,7 +21,6 @@
       sizes="114x114"
       href="assets/images/apple-icon-114x114.png"
     />
-
     <link
       href="https://fonts.googleapis.com/css?family=Great+Vibes|Lora&display=swap"
       rel="stylesheet"
@@ -49,6 +45,7 @@
     <link rel="stylesheet" href="assets/css/responsive.css" />
   </head>
   <body class="white-version black-bg">
+  
     <!-- Start Loader -->
     <div class="section-loader">
       <div class="loader">
@@ -382,28 +379,17 @@
                     <div class="parcial">
                       <div class="info">
                         <div class="nome">HTML/CSS</div>
-                        <div class="percentagem-num">90%</div>
+                        <div class="percentagem-num">85%</div>
                       </div>
                       <div class="progressBar">
-                        <div class="percentagem" style="width: 90%"></div>
+                        <div class="percentagem" style="width: 85%"></div>
                       </div>
                     </div>
                   </div>
                   <div class="candidatos">
                     <div class="parcial">
                       <div class="info">
-                        <div class="nome">PHP</div>
-                        <div class="percentagem-num">80%</div>
-                      </div>
-                      <div class="progressBar">
-                        <div class="percentagem" style="width: 80%"></div>
-                      </div>
-                    </div>
-                  </div>
-                  <div class="candidatos">
-                    <div class="parcial">
-                      <div class="info">
-                        <div class="nome">Android</div>
+                        <div class="nome">React Native</div>
                         <div class="percentagem-num">80%</div>
                       </div>
                       <div class="progressBar">
@@ -415,6 +401,17 @@
                     <div class="parcial">
                       <div class="info">
                         <div class="nome">JavaScript</div>
+                        <div class="percentagem-num">80%</div>
+                      </div>
+                      <div class="progressBar">
+                        <div class="percentagem" style="width: 80%"></div>
+                      </div>
+                    </div>
+                  </div>
+                  <div class="candidatos">
+                    <div class="parcial">
+                      <div class="info">
+                        <div class="nome">PHP</div>
                         <div class="percentagem-num">75%</div>
                       </div>
                       <div class="progressBar">
@@ -425,7 +422,7 @@
                   <div class="candidatos">
                     <div class="parcial">
                       <div class="info">
-                        <div class="nome">React Native</div>
+                        <div class="nome">Android</div>
                         <div class="percentagem-num">75%</div>
                       </div>
                       <div class="progressBar">
@@ -675,8 +672,8 @@
                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 node">
                   <figure>
                     <img
-                      src="./assets/images/project/project2.png"
-                      alt="img04"
+                      src="./assets/images/project/priced.png"
+                      alt="img01"
                     />
                     <figcaption class="fig-caption">
                       <h5 class="title">Priced</h5>
@@ -779,7 +776,7 @@
         <!-- End: .row -->
       </div>
 
-      <!-- FIRST POPUP PROJECT -->
+      <!-- PRICED -->
       <div class="mh-portfolio-modal" id="mh-1">
         <div class="container">
           <div class="row mh-portfolio-modal-inner">
@@ -811,7 +808,7 @@
             <div class="col-sm-7">
               <div class="mh-portfolio-modal-img">
                 <img
-                  src="./assets/images/project/project2.png"
+                  src="./assets/images/project/priced.png"
                   alt
                   class="img-fluid"
                 />
@@ -821,7 +818,7 @@
         </div>
       </div>
 
-      <!-- SECOND POPUP PROJECT -->
+      <!-- TELEDOCTOR -->
       <div class="mh-portfolio-modal" id="mh-2">
         <div class="container">
           <div class="row mh-portfolio-modal-inner">
@@ -862,7 +859,7 @@
         </div>
       </div>
 
-      <!-- THIRD PROJECT POPUP -->
+      <!-- SGBUS -->
       <div class="mh-portfolio-modal" id="mh-3">
         <div class="container">
           <div class="row mh-portfolio-modal-inner">
