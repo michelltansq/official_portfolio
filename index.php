@@ -722,7 +722,7 @@
                     <figcaption class="fig-caption">
                       <h5 class="title">Object Detection Tool</h5>
                       <span class="sub-title">Python</span><br>
-                      <a data-fancybox data-src="#mh-3"></a>
+                      <a data-fancybox data-src="#mh-4"></a>
                     </figcaption>
                   </figure>
                 </div>
@@ -895,7 +895,7 @@
       </div>
 
       <!-- OBJECT DETECTION TOOL -->
-      <div class="mh-portfolio-modal" id="mh-5">
+      <div class="mh-portfolio-modal" id="mh-4">
         <div class="container">
           <div class="row mh-portfolio-modal-inner">
             <div class="col-sm-5">
