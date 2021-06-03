@@ -712,25 +712,21 @@
                     </figcaption>
                   </figure>
                 </div>
-                <!-- 
+				
                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 web-design">
                   <figure>
                     <img
-                      src="./assets/images/project/project5.jpg"
+                      src="./assets/images/project/object-detection-tool.png"
                       alt="img04"
                     />
                     <figcaption class="fig-caption">
-                      <h5 class="title">Electrico</h5>
-                      <span class="sub-title">Web Design</span>
-                      <a
-                        href="assets/images/portfolio/g6.png/index.html"
-                        data-fancybox
-                        data-src="#mh-5"
-                      ></a>
+                      <h5 class="title">Object Detection Tool</h5>
+                      <span class="sub-title">Python</span><br>
+                      <a data-fancybox data-src="#mh-3"></a>
                     </figcaption>
                   </figure>
                 </div>
-
+				<!--
                 <div class="grid-item col-md-4 col-sm-6 col-xs-12 web-design">
                   <figure>
                     <img
@@ -898,60 +894,37 @@
         </div>
       </div>
 
-      <!-- FIVE PROJECT POPUP -->
-      <!-- <div class="mh-portfolio-modal" id="mh-5">
+      <!-- OBJECT DETECTION TOOL -->
+      <div class="mh-portfolio-modal" id="mh-4">
         <div class="container">
           <div class="row mh-portfolio-modal-inner">
             <div class="col-sm-5">
-              <h2>ABC Education System</h2>
+              <h2>Object Detection Tool</h2>
+              
               <p>
-                This is my final semester capstone project, completed by me and
-                my team mate, Jose Jimenez.
+                -
               </p>
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. In sunt
-                odit quibusdam natus atque rerum recusandae, aspernatur, iste a
-                accusamus veniam repellat voluptates quos perspiciatis
-                consequatur saepe exercitationem dolores ipsa. i
-              </p>
-
-              <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Iusto,
-                tempora?
-              </p>
+              
               <div class="mh-about-tag">
                 <ul>
-                  <li><span>HTML</span></li>
-                  <li><span>Bootstrap</span></li>
-                  <li><span>SASS</span></li>
-                  <li><span>CSS Flexbox</span></li>
+                  <li><span>Python</span></li>
                 </ul>
               </div>
-              <a class="btn btn-fill" href=" " target="_blank">Live Demo</a>
-              <a class="btn btn-fill" href=" " target="_blank">Github</a>
+              <a class="btn btn-fill" href="https://share.streamlit.io/michelltansq/object-detection/main/detection.py" target="_blank">Live Prototype</a>
+              <a class="btn btn-fill" href="https://github.com/michelltansq/object-detection" target="_blank">Github</a>
             </div>
             <div class="col-sm-7">
               <div class="mh-portfolio-modal-img">
                 <img
-                  src="./assets/images/project/project 2.jpg"
+                  src="./assets/images/project/object-detection-tool.png"
                   alt
                   class="img-fluid"
                 />
-                <p>
-                  Lorem ipsum dolor, sit amet consectetur adipisicing elit.
-                  Tenetur id officia vero! Nesciunt, a nihil.
-                </p>
-                <img
-                  src="./assets/images/project/project 2.jpg"
-                  alt
-                  class="img-fluid"
-                />
-                <p>Lorem ipsum dolor sit amet.</p>
               </div>
             </div>
           </div>
         </div>
-      </div> -->
+      </div>
 
       <!-- SIX PROJECT POPUP -->
       <!-- <div class="mh-portfolio-modal" id="mh-6">
