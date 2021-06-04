@@ -877,7 +877,7 @@
                   <li><span>React Native</span></li>
                 </ul>
               </div>
-              <a class="btn btn-fill" href="https://www.figma.com/proto/Q7bDShxqWVrDSJzyHA4BaD/sgBus?page-id=0%3A1&node-id=1%3A2&viewport=165%2C450%2C0.4667757451534271&scaling=scale-down" target="_blank">Live Prototype</a>
+              <a class="btn btn-fill" href="https://www.figma.com/proto/Q7bDShxqWVrDSJzyHA4BaD/sgBus?page-id=0%3A1&node-id=1%3A2&viewport=165%2C450%2C0.4667757451534271&scaling=scale-down" target="_blank">Design (Outdated)</a>
               <a class="btn btn-fill" href="https://github.com/michelltansq/sgBus" target="_blank">Github</a>
 	      <a class="btn btn-fill" href="https://expo.io/@mixhell/sgBus" target="_blank">Expo</a>
 	
