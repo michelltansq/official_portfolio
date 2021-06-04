@@ -249,7 +249,7 @@
                 data-wow-duration="0.8s"
                 data-wow-delay="0.3s"
               >
-                Hi! I am Michell, an 18 years old student based in Singapore.
+                Hi! I am Michell, an 19 years old student based in Singapore.
                 Currently studying at Republic Polytechnic specialising in
                 Mobile Software Development. As a dreamer, I have always been
                 interested in design and technology and aspire to be a UI
@@ -345,8 +345,8 @@
                 Swift and React Native. Among these programming languages, I am
                 more proficient in both Swift and React Native due to my recent
                 experiences of using these both languages. As a personal
-                preference, I like developing for iOS as I prefer coding using
-                Swift.
+                preference, I like developing mobile applications using React
+		Native.
               </p>
             </div>
           </div>
@@ -878,7 +878,9 @@
                 </ul>
               </div>
               <a class="btn btn-fill" href="https://www.figma.com/proto/Q7bDShxqWVrDSJzyHA4BaD/sgBus?page-id=0%3A1&node-id=1%3A2&viewport=165%2C450%2C0.4667757451534271&scaling=scale-down" target="_blank">Live Prototype</a>
-              <a class="btn btn-fill" href="https://github.com/michelltansq/sgBusOffical" target="_blank">Github</a>
+              <a class="btn btn-fill" href="https://github.com/michelltansq/sgBus" target="_blank">Github</a>
+	      <a class="btn btn-fill" href="https://expo.io/@mixhell/sgBus" target="_blank">Expo</a>
+	
             </div>
             <div class="col-sm-7">
               <div class="mh-portfolio-modal-img">
@@ -901,7 +903,8 @@
               <h2>Object Detection Tool</h2>
               
               <p>
-                -
+                Object Detection Tool is a website that is coded in Python that identifies
+		the type of object using basic machine learning. 
               </p>
               
               <div class="mh-about-tag">
@@ -909,7 +912,7 @@
                   <li><span>Python</span></li>
                 </ul>
               </div>
-              <a class="btn btn-fill" href="https://share.streamlit.io/michelltansq/object-detection/main/detection.py" target="_blank">Live Prototype</a>
+              <a class="btn btn-fill" href="https://share.streamlit.io/michelltansq/object-detection/main/detection.py" target="_blank">Website</a>
               <a class="btn btn-fill" href="https://github.com/michelltansq/object-detection" target="_blank">Github</a>
             </div>
             <div class="col-sm-7">
